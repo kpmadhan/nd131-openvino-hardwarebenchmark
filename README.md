@@ -1,11 +1,11 @@
 # nd131-openvino-smartqueuingsystem
 
-This project covers the following tasjk
+This project covers the following task
 
-*Propose a possible hardware solution
+* Propose a possible hardware solution
 
-*Build out your application and test its performance on the DevCloud using multiple hardware types
+* Build out your application and test its performance on the DevCloud using multiple hardware types
 
-*Compare the performance to see which hardware performed best
+* Compare the performance to see which hardware performed best
 
-*Revise your proposal based on the test results
+* Revise your proposal based on the test results
